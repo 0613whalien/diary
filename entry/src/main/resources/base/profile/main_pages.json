@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Goal/Index2",
+    "pages/Goal/NewTaskPage",
+    "pages/Goal/EditTaskPage",
+    "pages/Mine/denglu",
+    "pages/Mine/zhuce"
+  ]
+}

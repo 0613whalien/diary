@@ -1,0 +1,201 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "detail",
+      "value": "详情"
+    },
+
+
+    {
+      "name": "login_title_cn",
+      "value": "用户登陆"
+    },
+    {
+      "name": "login_title_en",
+      "value": "UserLogin"
+    },
+    {
+      "name": "login_account_cn",
+      "value": "请输入账号"
+    },
+    {
+      "name": "login_account_en",
+      "value": "account"
+    }
+
+  ,
+    {
+      "name": "login_password_cn",
+      "value": "密码"
+    },
+    {
+      "name": "login_password_en",
+      "value": "password"
+    }
+  ,
+    {
+      "name": "login_landing_cn",
+      "value": "登陆"
+    },
+    {
+      "name": "login_landing_en",
+      "value": "landing"
+    }
+
+  ,
+    {
+      "name": "login_register_cn",
+      "value": "注册"
+    },
+    {
+      "name": "login_register_en",
+      "value": "register"
+    }
+  ,
+    {
+      "name": "login_toast_acc_cn",
+      "value": "请输入账号密码！"
+    },
+    {
+      "name": "login_toast_acc_en",
+      "value": "Please enter your account password!"
+    },
+
+    {
+      "name": "login_toast_acc_error_cn",
+      "value": " 用户名或密码错误！"
+    },
+    {
+      "name": "login_toast_acc_error_en",
+      "value": "Incorrect username or password!"
+    },
+    {
+      "name": "login_toast_acc_exists_cn",
+      "value": " 已经存在账号，请注销后重新注册！"
+    },
+    {
+      "name": "login_toast_acc_exists_en",
+      "value": "Account already exists, please cancel and register again!"
+    },{
+      "name": "net_task_back_cn",
+      "value": "返回"
+    },
+    {
+      "name": "net_task_back_en",
+      "value": "back"
+    }
+  ,
+    {
+      "name": "net_task_add_cn",
+      "value": "新增"
+    },
+    {
+      "name": "net_task_add_en",
+      "value": "additions"
+    },
+    {
+      "name": "net_task_title_cn",
+      "value": "标题"
+    },
+    {
+      "name": "net_task_title_en",
+      "value": "title"
+    },{
+      "name": "net_task_input_hint_cn",
+      "value": "请输入标题"
+    },
+    {
+      "name": "net_task_input_hint_en",
+      "value": "Please enter a title"
+    },{
+      "name": "net_task_content_cn",
+      "value": "内容"
+    },
+    {
+      "name": "net_task_content_en",
+      "value": "content"
+    },
+    {
+      "name": "net_task_input_content_en",
+      "value": "Please enter a content"
+    },{
+      "name": "net_task_input_content_cn",
+      "value": "请输入内容"
+    },
+    {
+      "name": "net_task_submit_en",
+      "value": "submit"
+    },{
+      "name": "net_task_submit_cn",
+      "value": "提交"
+    },
+    {
+      "name": "net_task_edit_cn",
+      "value": "编辑"
+    },
+    {
+      "name": "net_task_edit_en",
+      "value": "edit"
+    },{
+      "name": "net_new_acc_cn",
+      "value": "注册账号"
+    },
+    {
+      "name": "net_new_acc_en",
+      "value": " Register an account"
+    },
+
+    {
+      "name": "net_new_query_cn",
+      "value": " 两次输入密码不一致"
+    },
+    {
+      "name": "net_new_query_en",
+      "value": " The passwords entered twice are inconsistent"
+    },
+
+    {
+      "name": "net_new_quit_cn",
+      "value": "退出"
+    },
+    {
+      "name": "net_new_quit_en",
+      "value": "quit"
+    }
+
+
+
+  ]
+}

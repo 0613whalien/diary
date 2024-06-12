@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+//      {
+//        "name": "default",
+//        "type": "HarmonyOS",
+//        "material": {
+//          "certpath": "/Users/aaronchen/.ohos/config/auto_debug_account_app_harmonyos-master-1_com.example.account_app_2850086000362149808.cer",
+//          "storePassword": "0000001A3A6674807E16CB8E715AA48518D6C67BB935372FF313A92169EF61F93FA59E8422024AD07434",
+//          "keyAlias": "debugKey",
+//          "keyPassword": "0000001AD88B881A2CE7009637B327130D8A98444B637F3C35AF790EBF15060742D80DE95914FF205004",
+//          "profile": "/Users/aaronchen/.ohos/config/auto_debug_account_app_harmonyos-master-1_com.example.account_app_2850086000362149808.p7b",
+//          "signAlg": "SHA256withECDSA",
+//          "storeFile": "/Users/aaronchen/.ohos/config/auto_debug_account_app_harmonyos-master-1_com.example.account_app_2850086000362149808.p12"
+//        }
+//      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
